@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.3",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "blobTrigger",
+      "connection": "WidgetsAzureStorageConnection",
+      "path": "%ContainerName%/{blobName}",
+      "name": "myBlobStream"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/private-endpoints.dll",
+  "entryPoint": "AzureSamples.AzureFunctionsPrivateEndpoints.MyFunctions.ProcessOrderDataFiles"
+}
