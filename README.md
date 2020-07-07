@@ -52,7 +52,8 @@ You can use the [Azure Cosmos Emulator](https://docs.microsoft.com/azure/cosmos-
 
 ## Deploy to Azure
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2FAzure-Functions-Private-Endpoints%2Fmaster%2Ftemplate%2Fazuredeploy.json%3Ftoken%3DAAIW4AOWATWNQLL2JZKDBAK63EOOU)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkprpg%2Ffunc-poc-pep%2Fmaster%2Ftemplate%2Fazuredeploy.json%3Ftoken%3ACVTTC4ASKXGROGDORHIU227AT4E4)
+
 
 ### Deploy to Azure using the Azure CLI
 
